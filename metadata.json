@@ -1,0 +1,7 @@
+{
+  "name": "PolyMorph 3D Hand Control",
+  "description": "A 3D particle shape manipulator controlled by hand gestures. Uses device camera and computer vision to interact with 3D geometry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
